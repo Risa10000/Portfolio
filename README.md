@@ -5,3 +5,6 @@ course detail:https://www.coursera.org/professional-certificates/google-advanced
 
 temporary source
 https://www.coursera.org/learn/google-advanced-data-analytics-capstone/ungradedLab/uskOX/activity-course-7-salifort-motors-project-lab/lab?path=%2Fnotebooks%2FActivity_%2520Course%25207%2520Salifort%2520Motors%2520project%2520lab.ipynb#
+
+update today
+

@@ -38,7 +38,7 @@
 
 ### Main coding file
 
-[jupyter notebook](../Prediction_of_turnover.ipynb)
+[jupyter notebook](Prediction_of_turnover.ipynb)
 
 
 Originally a capstone project from the Google Advanced Data Analytics Professional Certificate program, this is Risa Shimowada's portfolio project.

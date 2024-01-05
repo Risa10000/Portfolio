@@ -9,14 +9,15 @@
 .DS_Store
 
 # others
-.ipython/profile_default
-.jupyter
-.local/share/jupyter
+.ipython/profile_default/
+.jupyter/
+.local/share/jupyter/
 .npm/_logs
 
 # temp file
 .temp.ipynb
 .new-workspace.jupyterlab-workspace
+.bk/
 
 # followings are not used now but add in case of
 # Python

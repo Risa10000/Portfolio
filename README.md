@@ -28,14 +28,13 @@
         - Implement incentives or rewards for high-performing employees.
 - The second group comprises individuals with shorter working hours and lower performance evaluations.
     - they could need help staying motivated or finishing tasks. HR or managers could provide consultations to address their concerns.
-- There is no difference in the turnover rates between departments. It reflects the culture and policies of the company. Addressing this at the company level presents a significant opportunity for improvement, particularly focusing on employees who have worked for 3 to 6 years, as the length of service is also a turnover factor.
+- There is no difference in the turnover rates between departments. Addressing this at the company level presents a significant opportunity for improvement, particularly focusing on employees who have worked for 3 to 6 years, as the length of service is also a turnover factor.
 
-![feature](https://github.com/risa-001/portfolio/assets/148436136/ded26cab-8706-493a-aa78-2f44057b5538)
-
+![fi](https://github.com/risa-001/portfolio/assets/148436136/8989d026-f625-41c7-924b-8332e92a682d)
 
 - The results of statistical analysis and Random model align. The RF model predicts a 95% F1 score, demonstrating its effectiveness in aiding the HR process.
-![cm](https://github.com/risa-001/portfolio/assets/148436136/f411582b-c812-4582-856a-106cffe9cf8f)
 
+![cm](https://github.com/risa-001/portfolio/assets/148436136/2560f233-d788-4fbd-8d95-edb8da758628)
 
 ### Main coding file
 

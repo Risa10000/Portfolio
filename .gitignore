@@ -5,6 +5,7 @@
 # キャッシュや一時ファイル
 *.log
 *.cache
+.cache/
 
 # Mac用のシステムファイル
 .DS_Store
@@ -12,8 +13,9 @@
 # others
 .ipython/profile_default/
 .jupyter/
-.local/share/jupyter
-.npm/_logs
+.local/share/jupyter/
+.npm/_logs/
+.ipython/profile_default/startup/
 
 # temp file
 .temp.ipynb

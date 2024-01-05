@@ -1,22 +1,28 @@
 # Jupyter Notebook
-.ipynb_checkpoints/  # Jupyter Notebookのチェックポイント
+.ipynb_checkpoints/
+.ipynb_checkpoints/Prediction_of_turnover-checkpoint.ipynb
 
 # キャッシュや一時ファイル
-*.log                # ログファイル
-*.cache              # キャッシュファイル
+*.log
+*.cache
 
 # Mac用のシステムファイル
 .DS_Store
 
 # others
-.ipython/profile_default
-.jupyter
+.ipython/profile_default/
+.jupyter/
 .local/share/jupyter
 .npm/_logs
 
 # temp file
 .temp.ipynb
 .new-workspace.jupyterlab-workspace
+.bash_history
+
+# made by myself
+bk/
+temp.ipynb
 
 # followings are not used now but add in case of
 # Python

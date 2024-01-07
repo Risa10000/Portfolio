@@ -38,10 +38,13 @@
 ![cm](https://github.com/risa-001/portfolio/assets/148436136/2560f233-d788-4fbd-8d95-edb8da758628)
 
 ### Main coding file
+Kindly refer to the file provided for detailed information on the analysis and predictive models.
 
 [jupyter notebook](Prediction_of_turnover.ipynb)
 
 
+
+---
 Originally a capstone project from the Google Advanced Data Analytics Professional Certificate program, this is Risa Shimowada's portfolio project.
 
 [Google Advanced Data Analytics Professional Certificate program](https://www.coursera.org/professional-certificates/google-advanced-data-analytics?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQiAkKqsBhC3ARIsAEEjuJg0i1r3Auo6PgTjurVDXqunwTCtysfDfCEp7MwhFeo8xQ0z4w-EZlUaAjqXEALw_wcB)

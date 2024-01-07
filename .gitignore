@@ -1,0 +1,40 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+.ipynb_checkpoints/Prediction_of_turnover-checkpoint.ipynb
+
+# キャッシュや一時ファイル
+*.log
+*.cache
+.cache/
+
+# Mac用のシステムファイル
+.DS_Store
+
+# others
+.ipython/profile_default/
+.jupyter/
+.local/share/jupyter/
+.npm/_logs/
+.ipython/profile_default/startup/
+
+# temp file
+.temp.ipynb
+.new-workspace.jupyterlab-workspace
+.bash_history
+
+# made by myself
+bk/
+temp.ipynb
+
+# followings are not used now but add in case of
+# Python
+*.pyc                # コンパイル済みのPythonファイル
+__pycache__/         # Pythonのキャッシュディレクトリ
+
+# IDEやエディタ関連
+.idea/               # PyCharmの設定ファイル
+.vscode/             # Visual Studio Codeの設定ファイル
+
+# パッケージや依存関係
+venv/                # Python仮想環境
+node_modules/        # Node.jsの依存関係
